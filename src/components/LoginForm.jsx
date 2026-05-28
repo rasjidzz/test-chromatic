@@ -2,7 +2,7 @@ import PropTypes from 'prop-types';
 import { Button } from './Button';
 
 export function LoginForm({
-  title = 'Welcome back',
+  title = 'Welcome back, Ayo Login',
   subtitle = 'Sign in to continue to your workspace.',
   emailLabel = 'Email address',
   passwordLabel = 'Password',
