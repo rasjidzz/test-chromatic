@@ -34,7 +34,7 @@ const loanApplications = [
   },
   {
     applicationId: 'LN-240518-11',
-    applicantName: 'Citra Lestari',
+    applicantName: 'Bunga Citra Lestar',
     loanType: 'Home Improvement Loan',
     status: 'approved',
     requestedAmount: 'IDR 60,000,000',
@@ -70,7 +70,7 @@ createRoot(document.getElementById('root')).render(
       creditScore={loanApplications[0].creditScore}
       monthlyIncome="IDR 24,500,000"
       debtToIncome="18%"
-      reviewerNote="Stable income and low utilization. Ready for final decision."
+      reviewerNote="Stable income and low utilization. Ready for final decision. aaaa"
     ></LoanApplication>
   </React.StrictMode>
 );
