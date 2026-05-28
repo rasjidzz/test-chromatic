@@ -2,6 +2,10 @@
   "name": "storybook-design-sample",
   "version": "1.0.0",
   "private": true,
+   "engines": {
+    "node": "24.15.0"
+  },
+  "engineStrict": true,
   "type": "module",
   "scripts": {
     "dev": "vite",

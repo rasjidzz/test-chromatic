@@ -34,7 +34,7 @@ const loanApplications = [
   },
   {
     applicationId: 'LN-240518-11',
-    applicantName: 'Bunga Citra Lestar',
+    applicantName: 'Bunga Citra Lestari',
     loanType: 'Home Improvement Loan',
     status: 'approved',
     requestedAmount: 'IDR 60,000,000',
